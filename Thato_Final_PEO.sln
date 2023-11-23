@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thato_Final_PEO", "Thato_Final_PEO\Thato_Final_PEO.csproj", "{D77536C9-2304-4B0E-B53D-9A4EF3AE01C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thato_PEO_testing", "Thato_PEO_testing\Thato_PEO_testing.csproj", "{48239E56-E4EA-4079-B566-DD2207A77CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D77536C9-2304-4B0E-B53D-9A4EF3AE01C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77536C9-2304-4B0E-B53D-9A4EF3AE01C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77536C9-2304-4B0E-B53D-9A4EF3AE01C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77536C9-2304-4B0E-B53D-9A4EF3AE01C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48239E56-E4EA-4079-B566-DD2207A77CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48239E56-E4EA-4079-B566-DD2207A77CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48239E56-E4EA-4079-B566-DD2207A77CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48239E56-E4EA-4079-B566-DD2207A77CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CA41AD0-211A-4BE4-94AD-D419B79C4FFE}
+	EndGlobalSection
+EndGlobal
